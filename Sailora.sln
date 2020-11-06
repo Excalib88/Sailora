@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sailora", "Sailora\Sailora.csproj", "{89D9AB13-570E-4FC4-B55C-8F30D843ACBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sailora.Identity", "Sailora.Identity\Sailora.Identity.csproj", "{7FA2CB99-1FA2-4215-8E08-A7A76357BCE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D9AB13-570E-4FC4-B55C-8F30D843ACBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D9AB13-570E-4FC4-B55C-8F30D843ACBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D9AB13-570E-4FC4-B55C-8F30D843ACBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D9AB13-570E-4FC4-B55C-8F30D843ACBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA2CB99-1FA2-4215-8E08-A7A76357BCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA2CB99-1FA2-4215-8E08-A7A76357BCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA2CB99-1FA2-4215-8E08-A7A76357BCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA2CB99-1FA2-4215-8E08-A7A76357BCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
